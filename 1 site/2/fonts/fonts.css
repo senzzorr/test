@@ -1,0 +1,19 @@
+@font-face{
+	font-family: "IUIBlack"
+	src: url (Inter-UI-Black.otf?) format("otf");
+}
+
+@font-face{
+	font-family: "IUIBold"
+	src: url (Inter-UI-Bold.otf.otf?) format("otf");
+}
+
+@font-face{
+	font-family: "IUIMedium"
+	src: url (Inter-UI-Medium.otf?) format("otf");
+}
+
+@font-face{
+	font-family: "IUIRegular"
+	src: url (Inter-UI-Regular.otf?) format("otf");
+}
